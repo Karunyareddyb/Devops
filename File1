@@ -1,3 +1,5 @@
 Int a, b, c
 C=a+b
 Print c
+c=d
+d=a
