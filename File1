@@ -1,5 +1,5 @@
-Int a, b, c
-C=a+b
-Print c
+Int a, b, c, d
+C=a+b+d
+Print C
 c=d
-d=a
+
