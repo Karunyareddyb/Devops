@@ -2,4 +2,4 @@ Int a, b, c, d
 C=a+b+d
 Print C
 c=d
-
+e=1
